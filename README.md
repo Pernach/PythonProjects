@@ -1,5 +1,5 @@
 # PythonProjects
-Репозиторий, который содержит портфолио с data science проектами.
+Репозиторий, в котором размещены data science проекты.
 
 <table width=100% valign=top >
   <tr>
