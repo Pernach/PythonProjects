@@ -1,4 +1,5 @@
 # PythonProjects
+Репозиторий, содержит портфолио с data science проектами.
 
 <table width=100% valign=top >
   <tr>
